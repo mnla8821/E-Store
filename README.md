@@ -24,4 +24,4 @@ Show ow design and contact with backend api although its fake.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-(src/Assets/swiper.png)
+![screenshot](src/Assets/ImgHome/store.png)
